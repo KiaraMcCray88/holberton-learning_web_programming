@@ -1,4 +1,3 @@
-var Kiara=0
 while (Kiara<11) {
     console.log(Kiara);
     Kiara++;
