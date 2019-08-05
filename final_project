@@ -1,0 +1,17 @@
+<!Doctype hmtl>
+<html>
+<div class="jumbotron">
+  <center>
+  Hey
+  </center>
+</div>
+<div class="row" style="background-color:purple;height:200px;">
+<div class="col">
+  First
+</div>
+<div class="col" style="background-color:pink">
+  Second
+</div>
+<div class="col" style="background-color:purple">
+  Thrid
+</div>
