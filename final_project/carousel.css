@@ -56,7 +56,12 @@ body,p{
   margin-right: .75rem;
   margin-left: .75rem;
 }
+.schoolparagraph
+{
+  font-size: 25px;
+  font-family: Arvo;
 
+}
 
 /* Featurettes
 ------------------------- */
